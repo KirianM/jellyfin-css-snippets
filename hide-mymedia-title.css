@@ -1,0 +1,2 @@
+/* Remove "My Media" title */
+.sections .MyMedia .sectionTitle {display: none;}

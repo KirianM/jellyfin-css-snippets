@@ -1,3 +1,7 @@
 body:has(#loginPage:not(.hide)) .skinHeader {
   display: none !important;
 }
+
+body:not(:has(#loginPage:not(.hide))) .skinHeader {
+  display: flex !important;
+}

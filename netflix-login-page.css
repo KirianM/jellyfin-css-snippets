@@ -1,5 +1,5 @@
 #loginPage {
-  background-image: url('/Branding/Splashscreen?format=jpg&foregroundLayer=100.0');
+  background-image: url('https://github.com/KirianM/jellyfin-css-snippets/blob/main/Splashscreen.jpeg?raw=true');
   background-position: top left;
   background-size: 150%;
   background-attachment: fixed;

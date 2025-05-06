@@ -1,7 +1,9 @@
+/* Hide the top bar when the login page is visible */
 body:has(#loginPage:not(.hide)) .skinHeader {
   display: none !important;
 }
 
+/* Show the top bar when the login page is hidden or absent */
 body:not(:has(#loginPage:not(.hide))) .skinHeader {
   display: flex !important;
 }

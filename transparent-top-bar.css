@@ -1,0 +1,6 @@
+/*Transparent top bar*/
+.skinHeader-withBackground {background-color: #20202000 !important;}
+.skinHeader-withBackground .headerTabs.sectionTabs .emby-tab-button {
+    text-shadow: 2px 2px 2px black;
+    color: white !important;
+}

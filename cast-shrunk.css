@@ -1,0 +1,15 @@
+#castContent .personCard {
+    width: auto;
+    margin: 0 10px;
+}
+
+#castContent .personCard .cardBox {
+    margin-right: 0 !important;
+}
+
+#castContent .personCard .cardScalable {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 200px;
+}
